@@ -1,0 +1,651 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "682c1ce26cd1f490016c248c01195dc39842cd1d.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/682c1ce26cd1f490016c248c01195dc39842cd1d.js?meteor_js_resource=true",
+      "size": 1748230,
+      "hash": "682c1ce26cd1f490016c248c01195dc39842cd1d",
+      "sri": "7IbHzZc6hc/sn8pTUcRVdEAgLPvuAT4ZoDzz9m14eYAm+L4XCFRanBwTHZBkWCQqwWhS0nqc9x+9HJgha5Ls/w=="
+    },
+    {
+      "path": "682c1ce26cd1f490016c248c01195dc39842cd1d.stats.json",
+      "where": "client",
+      "type": "json",
+      "cacheable": true,
+      "url": "/682c1ce26cd1f490016c248c01195dc39842cd1d.stats.json?meteor_js_resource=true",
+      "size": 25428,
+      "hash": "3ad722787ac2f481288bae49645ec8025298f7de",
+      "sri": "J1HZCeJE3+PCnRSkENpLPn3lmMqL2jY3OvPsCZiCkxRMQU/10asSAQTex1hv/s0ooRcc0HF9n5WUxf4+1X2wnw=="
+    },
+    {
+      "path": "1112896eaa2370a01a52bda879208d5a0528dac1.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/1112896eaa2370a01a52bda879208d5a0528dac1.css?meteor_css_resource=true",
+      "size": 157324,
+      "hash": "1112896eaa2370a01a52bda879208d5a0528dac1",
+      "sri": "LeqiPOV6OiQAc9Rrgic1jxQw8qiWFTR25XWsLUZIAeEXNiThlcMVHAw6v/yJF47VgmwSTiExQnLPpAjv5lt1sA=="
+    },
+    {
+      "path": "packages/teamon_tinymce/skins/lightgray/content.inline.min.css",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/teamon_tinymce/skins/lightgray/content.inline.min.css",
+      "size": 2769,
+      "hash": "83dda20a9880cf7202059c7d12446080d1fd0762",
+      "sri": "MDRzwZBU1FXDzovNCzhdWff+gQy5dTQQxD1uww94S4EWldiXQAvCrvCmpmon9CmtNV8lrQebkHkz65hUmPuyHw=="
+    },
+    {
+      "path": "packages/teamon_tinymce/skins/lightgray/content.min.css",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/teamon_tinymce/skins/lightgray/content.min.css",
+      "size": 3193,
+      "hash": "6632b9260fc3fcda7641c8cca9802d89253b2564",
+      "sri": "np2kYJ33CAb5QA0RCbU+In7z32tkU/WRZ+9orUEkW1jSJII84UPookEbFBP2+hTIjsAYAh4ryEuL3yex+JOSIw=="
+    },
+    {
+      "path": "packages/teamon_tinymce/skins/lightgray/skin.ie7.min.css",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/teamon_tinymce/skins/lightgray/skin.ie7.min.css",
+      "size": 34904,
+      "hash": "b9cc2fac27d2623f2f056ff6b48a725594c10f8b",
+      "sri": "b4TMD0Uf7VDDsJ/RSmJQRZWeSyMcGAWwKqwZqRcw6Ipp3u6+2EV7MLMtiqPe8CfhXPkr0950aQiVWczypgTsWw=="
+    },
+    {
+      "path": "packages/teamon_tinymce/skins/lightgray/skin.min.css",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/teamon_tinymce/skins/lightgray/skin.min.css",
+      "size": 38232,
+      "hash": "0b12b83f643aa9fd7a9d6a71526bf718e59f0baf",
+      "sri": "KgwlDfcGselpjmubWpytRywJdvGPwNtNmxCCVG6ahVhuoy4QN0dnM51ogzn1ts1RG2NQGlnABH1+89iAy33kIg=="
+    },
+    {
+      "path": "packages/teamon_tinymce/skins/lightgray/fonts/tinymce-small.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/teamon_tinymce/skins/lightgray/fonts/tinymce-small.eot",
+      "size": 9492,
+      "hash": "2028e5ca2782e3bc8b3cfe0eebe92efa8f826110",
+      "sri": "t5oA1yeYH5n6phDCp5IzPsrQ5Aq8SI8TZ3X86ecLBfAgm11bRhacpQ4Xz/h9k3zHianDussZihkVGsdbmg4aOw=="
+    },
+    {
+      "path": "packages/teamon_tinymce/skins/lightgray/fonts/tinymce-small.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/teamon_tinymce/skins/lightgray/fonts/tinymce-small.svg",
+      "size": 24727,
+      "hash": "437d26529c0ab6eb35e40063fa15f7759a1320d2",
+      "sri": "tig2tgY8vNNQwO0ODYpmO1bc1TbRKiQKMOWjMea0KTTqkLnFQOmq6BZuHhnQorDSfgEDACQY39vw+Hn7xn+fbA=="
+    },
+    {
+      "path": "packages/teamon_tinymce/skins/lightgray/fonts/tinymce-small.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/teamon_tinymce/skins/lightgray/fonts/tinymce-small.ttf",
+      "size": 9304,
+      "hash": "0376dcd384137f801c22c9cc5f0e4ee14a0103f2",
+      "sri": "xYZ9hE90PGA9SoOHWj/0gPwh10fGtMaocWdp8ItT4DR7dl7c/jl+sx35Z3k7G0iAd2FyNUyXoJEQ3UAECXmZyA=="
+    },
+    {
+      "path": "packages/teamon_tinymce/skins/lightgray/fonts/tinymce-small.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/teamon_tinymce/skins/lightgray/fonts/tinymce-small.woff",
+      "size": 9380,
+      "hash": "3c51615e64989f4f3605e6ca7242f5f0683f06da",
+      "sri": "jbGWHlGFsJRwmqWeRbziL3DRZVzr3D1VNFwPEe83i7ZwhPb6TrgUCY9LyRzfjpex+Pco2GKPL/zEOWvxJ+9OkQ=="
+    },
+    {
+      "path": "packages/teamon_tinymce/skins/lightgray/fonts/tinymce.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/teamon_tinymce/skins/lightgray/fonts/tinymce.eot",
+      "size": 17572,
+      "hash": "fe43374916977bf923334444e82559c3261bc5ca",
+      "sri": "JK+PdGm1WqfL0aeQHvSkQHAfNMs+0tjKOceo14n4cQ8tCqMB/CIXabbtqSYqFXQO5HruWN5L1CJE+nlVa8Ml4A=="
+    },
+    {
+      "path": "packages/teamon_tinymce/skins/lightgray/fonts/tinymce.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/teamon_tinymce/skins/lightgray/fonts/tinymce.svg",
+      "size": 45991,
+      "hash": "bdf57f820d1b64c267c09ffa059fa62bff72dc38",
+      "sri": "rgtxZElvXr0LfwNuMMNzx1pPOKzOaNC+vPe5IE95PHmFSVSv5LEHHMh58P/+J0Y/GX3m6Wc9+rWx8+Px5afG0w=="
+    },
+    {
+      "path": "packages/teamon_tinymce/skins/lightgray/fonts/tinymce.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/teamon_tinymce/skins/lightgray/fonts/tinymce.ttf",
+      "size": 17408,
+      "hash": "5a728ce97a7ef785f41116df39bd231d5209d49a",
+      "sri": "cx2xGuChQkejZKfxXh3ffDMUqNolDaswMOUAcvT2UZ9u+acugEOL/xH5PqglefBOVZxphd6tEBXPD06KkPJ7Ew=="
+    },
+    {
+      "path": "packages/teamon_tinymce/skins/lightgray/fonts/tinymce.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/teamon_tinymce/skins/lightgray/fonts/tinymce.woff",
+      "size": 17484,
+      "hash": "928ac3ef3c6b6ebaf46b18d5f271241236aeccf0",
+      "sri": "TCDnK/zLxu3r91cWG9NzNh2+y88kAAD+UaEHk1IhAcLsVf+JPN60a/h0W+aoZm0alIcCeTssldODRwTc8UStqg=="
+    },
+    {
+      "path": "packages/teamon_tinymce/skins/lightgray/img/anchor.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/teamon_tinymce/skins/lightgray/img/anchor.gif",
+      "size": 53,
+      "hash": "cff90b4ad42f736667b665032dce228c27e43f2b",
+      "sri": "BoeziZibHZAYiHP4FCUsa2LwTF4PuPLe4ClIO4awxDIMowcW+0D+LHszwez58jqJehkiPDbMwc0W38xqhggGiQ=="
+    },
+    {
+      "path": "packages/teamon_tinymce/skins/lightgray/img/loader.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/teamon_tinymce/skins/lightgray/img/loader.gif",
+      "size": 2608,
+      "hash": "7009719622f9958e532f279d6cf31a37d3ca46ae",
+      "sri": "orhr/rp0/q4yR8HFO7xMTZIpNrwJn6jYSHsgrQtpnsXSealPlyukeAAMv0BTugj/uyyluoLuAbaA9QM7FIu9aQ=="
+    },
+    {
+      "path": "packages/teamon_tinymce/skins/lightgray/img/object.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/teamon_tinymce/skins/lightgray/img/object.gif",
+      "size": 152,
+      "hash": "25c305dcefc427527df3288634b180b1741a7ed2",
+      "sri": "uSvWL/tCI7MqCp6sEiu5ZwpIYG74QFBnQcDw8LF01veWvHzJ/TYlxd233DAg/FA1lWF2i7qZEZvKEa2crewFbQ=="
+    },
+    {
+      "path": "packages/teamon_tinymce/skins/lightgray/img/trans.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/teamon_tinymce/skins/lightgray/img/trans.gif",
+      "size": 43,
+      "hash": "39a14e05766f69d523c12f41f6493e7510eb4336",
+      "sri": "e7KbIRzsSK7WejyPjvwQMUR6W0Mv1TeJUfp9AFTYuhWPch4eBEVoHIcXh30XdChNgR2Y+fNFmF1tDz5+R97nrw=="
+    },
+    {
+      "path": "app/fonts/Montserrat-Light.otf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Montserrat-Light.otf",
+      "size": 44792,
+      "hash": "c2a416e9906b4612e5d5fa3554db52218a47641e",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/Montserrat-Regular.otf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Montserrat-Regular.otf",
+      "size": 45360,
+      "hash": "c7dfd76c5bfd20b1c73c07e07db4a0bbd4ec2902",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/Montserrat-UltraLight.otf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Montserrat-UltraLight.otf",
+      "size": 68300,
+      "hash": "4daeb5181c3b4b6b7338e2577ff52735ac141f23",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/Raleway-Light.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Raleway-Light.ttf",
+      "size": 182376,
+      "hash": "470fea69cc317ffc765af183dbc62c5edd8f38a4",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/Raleway-Medium.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Raleway-Medium.eot",
+      "size": 179788,
+      "hash": "44edd6cfd01bc6d13568e6451f16af172c85c362",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/Raleway-Medium.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Raleway-Medium.svg",
+      "size": 505724,
+      "hash": "d79e3fe0227aad3f586bea268570aaf95917b0dd",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/Raleway-Medium.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Raleway-Medium.ttf",
+      "size": 180184,
+      "hash": "65f2ffc4ac79a3bfbdb33678ddc4912fac894f97",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/Raleway-Medium.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Raleway-Medium.woff",
+      "size": 71312,
+      "hash": "c241f5c34eada5793923abe52dd957a599be78ed",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/Raleway-Medium.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Raleway-Medium.woff2",
+      "size": 51764,
+      "hash": "947c185fe2163ca9370d0502bebfd2a3acc190f8",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/Raleway-Regular.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Raleway-Regular.eot",
+      "size": 178836,
+      "hash": "a8175e91baba6e371cf9ce9e11cd6dc70f957586",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/Raleway-Regular.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Raleway-Regular.svg",
+      "size": 490395,
+      "hash": "c53b748a30362a314cd14daed6ec9566d5e354a8",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/Raleway-Regular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Raleway-Regular.ttf",
+      "size": 180084,
+      "hash": "745ece1230d9e11c50c006506ee2c23ff19573eb",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/Raleway-Regular.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Raleway-Regular.woff",
+      "size": 71640,
+      "hash": "11a4e01c895aa15a855f66aef12c64d0f8fc3d8c",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/Raleway-Regular.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Raleway-Regular.woff2",
+      "size": 51572,
+      "hash": "acd4327f925fcd32fa170c437e6f1bedab6b29c1",
+      "sri": null
+    },
+    {
+      "path": "app/img/apple-touch-icon.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/apple-touch-icon.png",
+      "size": 60261,
+      "hash": "c8263179b6a05afe286008e631eeb2df2542bcdb",
+      "sri": null
+    },
+    {
+      "path": "app/img/apple-touch-startup-image-640x920.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/apple-touch-startup-image-640x920.png",
+      "size": 51414,
+      "hash": "81af55b7acf42c6e1192fa795f239193b4df96e0",
+      "sri": null
+    },
+    {
+      "path": "app/img/arrow.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/arrow.png",
+      "size": 5914,
+      "hash": "f62b300fa0723afec2d0a01f5c437dfa232e4da2",
+      "sri": null
+    },
+    {
+      "path": "app/img/logo.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/logo.png",
+      "size": 6145,
+      "hash": "8ae99df49017efa0a717c5686088da5c022649e8",
+      "sri": null
+    },
+    {
+      "path": "app/img/logo_black.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/logo_black.svg",
+      "size": 1987,
+      "hash": "c716e276afdbc998e0da6a5f8e92bdb78f640004",
+      "sri": null
+    },
+    {
+      "path": "app/img/logo_header.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/logo_header.png",
+      "size": 15515,
+      "hash": "0f3995075c9cfa02c4563a7c25c1d5e91c654d44",
+      "sri": null
+    },
+    {
+      "path": "app/img/logo_resources_white.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/logo_resources_white.svg",
+      "size": 5010,
+      "hash": "cbb2768c4553a12d7911380a4c0712a59468711a",
+      "sri": null
+    },
+    {
+      "path": "app/img/logo_sidebar.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/logo_sidebar.png",
+      "size": 6145,
+      "hash": "8ae99df49017efa0a717c5686088da5c022649e8",
+      "sri": null
+    },
+    {
+      "path": "app/img/logo_white.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/logo_white.svg",
+      "size": 1987,
+      "hash": "2042e0152e2f3cb66eeabd05a16dfcbdf3dd03b6",
+      "sri": null
+    },
+    {
+      "path": "app/img/logo_yellow.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/logo_yellow.svg",
+      "size": 1989,
+      "hash": "b4cac3cfc8c5916cefdb95981aee7b9b4d2263d5",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/font-awesome/css/fontawesome-all.min.css",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/font-awesome/css/fontawesome-all.min.css",
+      "size": 41065,
+      "hash": "5f367ca4fe8b1eab97d1e8a322f5d9cf9367ea16",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/font-awesome/webfonts/fa-brands-400.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/font-awesome/webfonts/fa-brands-400.eot",
+      "size": 111620,
+      "hash": "1d3308183de062be7d61fc1e52cf4c7a2b3c8338",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/font-awesome/webfonts/fa-brands-400.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/font-awesome/webfonts/fa-brands-400.svg",
+      "size": 599834,
+      "hash": "02c2d30e386b855cfdac1f23047b0085b613ecb4",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/font-awesome/webfonts/fa-brands-400.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/font-awesome/webfonts/fa-brands-400.ttf",
+      "size": 111384,
+      "hash": "ac224217845451e37c8579adaae01874c9841735",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/font-awesome/webfonts/fa-brands-400.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/font-awesome/webfonts/fa-brands-400.woff",
+      "size": 71560,
+      "hash": "f3b75c8589039e843e73e5f53f06cf58d8a46856",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/font-awesome/webfonts/fa-brands-400.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/font-awesome/webfonts/fa-brands-400.woff2",
+      "size": 61336,
+      "hash": "e91640d1d2449053461a7fc655c2d60d6c8e6500",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/font-awesome/webfonts/fa-regular-400.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/font-awesome/webfonts/fa-regular-400.eot",
+      "size": 31272,
+      "hash": "a2f99ab319cd5e6cad5a06b9d7436e50ce54f4ea",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/font-awesome/webfonts/fa-regular-400.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/font-awesome/webfonts/fa-regular-400.svg",
+      "size": 104706,
+      "hash": "7ef1c40c8036003e245ca4aa7c7a5442321287d5",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/font-awesome/webfonts/fa-regular-400.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/font-awesome/webfonts/fa-regular-400.ttf",
+      "size": 31044,
+      "hash": "1c9e6d09ba9431ac92d0fc4197f9421827167e8a",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/font-awesome/webfonts/fa-regular-400.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/font-awesome/webfonts/fa-regular-400.woff",
+      "size": 14724,
+      "hash": "3829c561bf579b9863f2d6ef80fd4bcc94c94fc4",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/font-awesome/webfonts/fa-regular-400.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/font-awesome/webfonts/fa-regular-400.woff2",
+      "size": 12188,
+      "hash": "44ebfde23a4f1cb7d099966209a7a03a304c520c",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/font-awesome/webfonts/fa-solid-900.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/font-awesome/webfonts/fa-solid-900.eot",
+      "size": 133140,
+      "hash": "916bb2bf5254ba014d1d4e9e1f510a244d81d9f6",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/font-awesome/webfonts/fa-solid-900.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/font-awesome/webfonts/fa-solid-900.svg",
+      "size": 488395,
+      "hash": "4dbc5e203cbc1409e1a8a85ad13cd8bee3ae0701",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/font-awesome/webfonts/fa-solid-900.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/font-awesome/webfonts/fa-solid-900.ttf",
+      "size": 132920,
+      "hash": "580a6a8f4415898b2440f534ce0824bdd21c85a5",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/font-awesome/webfonts/fa-solid-900.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/font-awesome/webfonts/fa-solid-900.woff",
+      "size": 63836,
+      "hash": "b8a11432a8173833c0126f1448c9a74c79ec2f43",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/font-awesome/webfonts/fa-solid-900.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/font-awesome/webfonts/fa-solid-900.woff2",
+      "size": 50372,
+      "hash": "5a2ee0ff4eaea912037e813fe8c0f59d0c26e9ce",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/ionicons/css/ionicons.min.css",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/ionicons/css/ionicons.min.css",
+      "size": 51284,
+      "hash": "b1509da06bc85cac7262151f72987e50e502a2f4",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/ionicons/fonts/ionicons.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/ionicons/fonts/ionicons.eot",
+      "size": 120724,
+      "hash": "0babf1a85bbc13b19e821cc36ca71fd8859cd525",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/ionicons/fonts/ionicons.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/ionicons/fonts/ionicons.svg",
+      "size": 333834,
+      "hash": "25e7cad259d061d787c3a048ebf1cb8ae53b2be9",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/ionicons/fonts/ionicons.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/ionicons/fonts/ionicons.ttf",
+      "size": 188508,
+      "hash": "3b035e3597d89093dcc850b3671d5a532b24dd9b",
+      "sri": null
+    },
+    {
+      "path": "app/fonts/ionicons/fonts/ionicons.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/ionicons/fonts/ionicons.woff",
+      "size": 67904,
+      "hash": "ce26769063c47599eb1906ef3d7a988cf8155026",
+      "sri": null
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "04a6a946b6c9a47a9b8d4b3c902dc17b5c08fdf5"
+    }
+  ]
+}
